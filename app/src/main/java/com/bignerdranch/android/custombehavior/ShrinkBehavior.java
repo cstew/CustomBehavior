@@ -11,10 +11,8 @@ import android.view.View;
 import java.util.List;
 
 public class ShrinkBehavior extends CoordinatorLayout.Behavior<FloatingActionButton> {
-    private static final String TAG = ShrinkBehavior.class.getSimpleName();
 
-    public ShrinkBehavior() {
-    }
+    public ShrinkBehavior() { }
 
     public ShrinkBehavior(Context context, AttributeSet attrs) {
         super(context, attrs);

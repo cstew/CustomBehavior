@@ -2,4 +2,4 @@ Two examples of custom `Behavior`s with `FloatingActionButton` and `CoordinatorL
 
 Shrink and Rotate
 
-~[](https://raw.githubusercontent.com/cstew/CustomBehavior/master/art/fab_shrink.gif)
+![](https://raw.githubusercontent.com/cstew/CustomBehavior/master/art/fab_shrink.gif)
